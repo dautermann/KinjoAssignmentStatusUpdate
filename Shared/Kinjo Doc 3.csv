@@ -1,0 +1,4 @@
+"Existing Assignments","New Assignments","Expected output"
+"[""1_FirstHomework_Assigned""],","[""1_FirstHomework_Submitted""]","[""FirstHomework_was_submitted.""]"
+"[""1_FirstHomework_Submitted"",""2_SecondHomework_Assigned""],","[""1_GRADEDFirst homework_Graded"", ""2_SecondHomework_Submitted""]","[""FirstHomework_was_renamed_to GRADEDFirstHomework_and_it_was_graded."", ""SecondHomework_was_submitted""]"
+"[""1_FirstHomework_Submitted""],","[""1_FirstHomework_Submitted"", ""2_SecondHomework_Assigned""]","[""SecondHomework_was_added_and_it_was_assigned.""]"
